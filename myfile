@@ -1,3 +1,7 @@
 this is my new file from mumbai.
 This is my second job
+<<<<<<< HEAD
 This is my third job
+=======
+This is my Biodata
+>>>>>>> 6dff1629835ad7c710938823d7bf0a10fedd12f8
